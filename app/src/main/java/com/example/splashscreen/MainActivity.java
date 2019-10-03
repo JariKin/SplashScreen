@@ -36,8 +36,8 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    // EN SAANUT TOIMIMAAN MITAAN GENERAL RATKAISUA TUOHON USEIDEN YRITYSTEN JALKEEN
-    // JOTEN TOTEUTIN SEN MANIFESTISSA
+    /* EN SAANUT TOIMIMAAN MITAAN GENERAL RATKAISUA TUOHON USEIDEN YRITYSTEN JALKEEN
+    JOTEN TOTEUTIN SEN MANIFESTISSA */
    /* @Override
     protected void onSaveInstanceState(Bundle savedInstanceState) {
         savedInstanceState.putBoolean();
